@@ -1,5 +1,8 @@
-# Probability (chances/ likelihood/ likeliness)
+<p align= "center">
+<a href="https://colab.research.google.com/github/martian1231/gaussianNaiveBayesFromScratch/blob/master/gussianNB_classifier_on_Iris_dataset_from_scratch.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a>
+</p>
 
+# Probability (chances/ likelihood/ likeliness)
 Probability is chance of event happening. In other words, **what are the chances that we might expect a particular outcome from an experiment**. Mathematically, It a number between _[0, 1]_ which tells, "how likely it is that we may expect a particular outcome".
 
 <img src="https://www.mathsisfun.com/data/images/probability-line.svg" alt="Probability" style="zoom: 67%;" />
